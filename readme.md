@@ -23,7 +23,3 @@ It consistes of list of all favorite superheros.
 
 #Tools and technologies used -
 Html, css, Javascript, bootstrap (css framework)
-
-#hosted link -
-
-https://pratikshakulkarni7719.github.io/superhero-hunter/
